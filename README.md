@@ -1,2 +1,2 @@
 # AI-ML-Portfolio
-This is my AI/ML project section.
+This is my AI/ML work section.
